@@ -1,0 +1,29 @@
+# Material file for lod0.obj
+
+newmtl light1_L0
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 1.0 1.0 1.0
+	Ka 1.0 1.0 1.0
+	map_Kd light1_l0.png
+
+newmtl light2_L0
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 1.0 1.0 1.0
+	Ka 1.0 1.0 1.0
+	map_Kd light2_l0.png
+
+newmtl lightwheel_L0
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 1.0 1.0 1.0
+	Ka 1.0 1.0 1.0
+	map_Kd lightwheel_l0.png
+
