@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4308080338970613112}
   - component: {fileID: 5194988327505486874}
   - component: {fileID: 2168820333868787787}
+  - component: {fileID: 2319278522419087094}
   m_Layer: 0
   m_Name: woolworth
   m_TagString: Untagged
@@ -83,3 +84,24 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &2319278522419087094
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2661291033655056764}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.5753998, y: 0.57539976, z: 3.5763369}
+  m_Center: {x: 0, y: 0, z: 1.8173101}
